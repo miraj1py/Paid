@@ -409,7 +409,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     SUSCRIBE NA KORLE APPROVED HOBE NA AGE SUB. KOREN ")
+		print("\033[1;36m     SUSCRIBE NA KORLE APPROVED Cancel kore dibo AGE SUB. KOREN ")
 		print("")
 		print("\033[1;32m [1] First You Subscribe Channel")
 		print("\033[1;33m [2] Exit")
@@ -421,7 +421,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif MIRAJ in ["1", "01"]:
-			os.system("xdg-open https://youtub.com/@MIRAZBRO1")
+			os.system("xdg-open https://youtube.com/@MIRAZBRO1")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apnar nam den")
